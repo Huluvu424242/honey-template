@@ -1,4 +1,4 @@
-# honey-news-navbar
+# honey-template-navbar
 
 
 
@@ -9,13 +9,13 @@
 
 ### Used by
 
- - [honey-news](..)
+ - [honey-template](..)
 
 ### Graph
 ```mermaid
 graph TD;
-  honey-news --> honey-news-navbar
-  style honey-news-navbar fill:#f9f,stroke:#333,stroke-width:4px
+  honey-template --> honey-template-navbar
+  style honey-template-navbar fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ----------------------------------------------

@@ -1,5 +1,5 @@
 {
-  "name": "@huluvu424242/honey-news",
+  "name": "@huluvu424242/honey-template",
   "version": "0.0.4",
   "description": "News reader web component for custom urls.",
   "main": "dist/index.cjs.js",
@@ -9,14 +9,14 @@
   "types": "dist/custom-elements/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/honey-news/honey-news.js",
+  "unpkg": "dist/honey-template/honey-template.js",
   "files": [
     "dist/",
     "loader/"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Huluvu424242/honey-news.git"
+    "url": "https://github.com/Huluvu424242/honey-template.git"
   },
   "keywords": [
     "honey",
@@ -29,7 +29,7 @@
   "author": "Huluvu424242 alias FunThomas424242 and in real life Thomas Schubert",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Huluvu424242/honey-news/issues"
+    "url": "https://github.com/Huluvu424242/honey-template/issues"
   },
   "scripts": {
     "build": "stencil build --docs",

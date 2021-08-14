@@ -4,7 +4,7 @@ import {Disclaimer} from "../snippets/Disclaimer";
 import {Subscription} from "rxjs";
 
 @Component({
-  tag: "honey-news-header",
+  tag: "honey-template-header",
   styleUrl: "Header.css",
   assetsDirs: ['../assets', 'assets'],
   shadow: true
@@ -78,7 +78,7 @@ export class Header {
                 >Statistik</a></span>
                 </li>
                 <li role="listitem"><span role="heading" aria-level="2"><a
-                  href="https://github.com/Huluvu424242/honey-news"
+                  href="https://github.com/Huluvu424242/honey-template"
                   target="_blank">Github</a></span></li>
                 <li role="listitem"><span role="heading" aria-level="2"><a href="/about"
                                                                            onClick={this.navigateTo}

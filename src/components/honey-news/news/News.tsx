@@ -7,7 +7,7 @@ import {from, Subscription} from "rxjs";
 import {PipeOperators} from "../../../shared/PipeOperators";
 
 @Component({
-  tag: "honey-news-feed",
+  tag: "honey-template-feed",
   styleUrl: "News.css",
   assetsDirs: ['assets'],
   shadow: true
@@ -56,8 +56,8 @@ export class News {
   lastUpdate: Date = null;
 
   @State() options: NewsOptions = {
-    disabledHostClass: "honey-news-feed-disabled",
-    enabledHostClass: "honey-news-feed-enabled",
+    disabledHostClass: "honey-template-feed-disabled",
+    enabledHostClass: "honey-template-feed-enabled",
     disabledTitleText: "Noch keine News verfügbar",
     titleText: "Aktuelle News aus den Feeds",
     ariaLabel: "Neuigkeiten der abonierten Feeds",
@@ -135,7 +135,7 @@ export class News {
 
 
   /**
-   * Update honey-news options
+   * Update honey-template options
    * @param options : NewsOptions plain object to set the options
    */
   @Method()

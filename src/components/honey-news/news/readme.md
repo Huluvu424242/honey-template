@@ -1,4 +1,4 @@
-# honey-news
+# honey-template
 
 
 
@@ -17,7 +17,7 @@
 
 ### `updateOptions(options: NewsOptions) => Promise<void>`
 
-Update honey-news options
+Update honey-template options
 
 #### Returns
 
@@ -30,13 +30,13 @@ Type: `Promise<void>`
 
 ### Used by
 
- - [honey-news](..)
+ - [honey-template](..)
 
 ### Graph
 ```mermaid
 graph TD;
-  honey-news --> honey-news-feed
-  style honey-news-feed fill:#f9f,stroke:#333,stroke-width:4px
+  honey-template --> honey-template-feed
+  style honey-template-feed fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ----------------------------------------------

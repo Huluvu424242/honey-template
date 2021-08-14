@@ -16,7 +16,7 @@ export const About: FunctionalComponent<AboutProps> = () => ([
     Daher hab ich diese herausgezogen und unter global/varibales.css eingebunden.
     Dadurch wird in der index.html folgender Eintrag notwendig:
     <pre>
-                &lt; link rel="stylesheet" href="/build/honey-news.css"/&gt;
+                &lt; link rel="stylesheet" href="/build/honey-template.css"/&gt;
                 </pre>
   </p>,
   <p>

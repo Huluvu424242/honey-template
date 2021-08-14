@@ -1,4 +1,4 @@
-# honey-news-header
+# honey-template-header
 
 
 
@@ -9,13 +9,13 @@
 
 ### Used by
 
- - [honey-news](..)
+ - [honey-template](..)
 
 ### Graph
 ```mermaid
 graph TD;
-  honey-news --> honey-news-header
-  style honey-news-header fill:#f9f,stroke:#333,stroke-width:4px
+  honey-template --> honey-template-header
+  style honey-template-header fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ----------------------------------------------

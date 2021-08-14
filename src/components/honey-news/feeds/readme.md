@@ -1,4 +1,4 @@
-# honey-news-feeds
+# honey-template-feeds
 
 
 
@@ -16,13 +16,13 @@
 
 ### Used by
 
- - [honey-news](..)
+ - [honey-template](..)
 
 ### Graph
 ```mermaid
 graph TD;
-  honey-news --> honey-news-feeds
-  style honey-news-feeds fill:#f9f,stroke:#333,stroke-width:4px
+  honey-template --> honey-template-feeds
+  style honey-template-feeds fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 ----------------------------------------------

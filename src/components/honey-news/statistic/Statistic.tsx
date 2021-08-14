@@ -6,7 +6,7 @@ import {StatisticData} from "@huluvu424242/liona-feeds/dist/esm/feeds/statistic"
 import {StatisticLoader} from "./StatisticLoader";
 
 @Component({
-  tag: "honey-news-statistic",
+  tag: "honey-template-statistic",
   styleUrl: "Statistic.css",
   assetsDirs: ['assets'],
   shadow: true
@@ -57,8 +57,8 @@ export class Statistic {
   lastUpdate: Date = null;
 
   @State() options: StatisticOptions = {
-    disabledHostClass: "honey-news-statistic-disabled",
-    enabledHostClass: "honey-news-statistic-enabled",
+    disabledHostClass: "honey-template-statistic-disabled",
+    enabledHostClass: "honey-template-statistic-enabled",
     disabledTitleText: "Noch keine Statistik verfügbar",
     titleText: "Statistische Übersicht",
     ariaLabel: "Statistiken zur Aufrufhäufigkeit der Feeds",
