@@ -64,29 +64,9 @@ To the [live demo](https://huluvu424242.github.io/honey-template/index.html)
 
 ### vX.X.X unpublished
 
-### v1.0.0 unpublished
-
-* 
-
-### v0.0.4 published at 2021-05-02
-
-* [issue 10](https://github.com/Huluvu424242/honey-template/issues/10) cleanup
-* finalizing layout
-
-### v0.0.3 published at 2021-04-25
-
-* [issue 16](https://github.com/Huluvu424242/honey-template/issues/16) add feed working
-* [issue 13](https://github.com/Huluvu424242/honey-template/issues/13) routing added
-* [issue 11](https://github.com/Huluvu424242/honey-template/issues/11) split into multiple webcomponents
-
-### v0.0.2 published at 2021-04-11
-
-* developer release DO NOT USE
-
 ### v0.0.1 published at 2021-03-15
 
-* [issue 2](https://github.com/Huluvu424242/honey-template/issues/2) use heroku backend container
-* setup project based at https://github.com/ionic-team/stencil-component-starter rating-stencil-component
+* [issue 1](https://github.com/Huluvu424242/honey-template/issues/1) setup project
 
 ## warranty
 
@@ -98,17 +78,11 @@ MIT License
 
 ## technology used
 
-* [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 * [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/API/Window/customElements)
 * [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-* [Shadow Parts](https://developer.mozilla.org/de/docs/Web/CSS/::part)
 
 
 ## browser support
-
-Generell
-
-* [Can I use with browsers?](https://caniuse.com/#feat=speech-synthesis)
 
 ### Custom Elements
 
@@ -118,12 +92,3 @@ Generell
 
 * [Can I use with browsers?](https://caniuse.com/#search=css%20custom%20properties)
 
-### Shadow Parts
-
-Firefox
-
-Maybe you must via about:config set the layout.css.shadow-parts.enabled to true.
-
-Generell 
-
-* [Can I use with browsers?](https://caniuse.com/#feat=mdn-css_selectors_part)
