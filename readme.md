@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Huluvu424242/honey-template.svg?branch=master)](https://travis-ci.com/Huluvu424242/honey-template)
+[![Build Status](https://app.travis-ci.com/Huluvu424242/honey-template.svg?branch=master)](https://app.travis-ci.com/Huluvu424242/honey-template)
 ![Github CI](https://github.com/Huluvu424242/honey-template/workflows/Github%20CI/badge.svg)
 [![npm](https://img.shields.io/npm/v/@huluvu424242/honey-template.svg)](https://www.npmjs.com/package/@huluvu424242/honey-template)
 [![npm](https://img.shields.io/npm/dm/@huluvu424242/honey-template.svg)](https://www.npmjs.com/package/@huluvu424242/honey-template)
